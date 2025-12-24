@@ -1,0 +1,11 @@
+age,income,years_with_company,gender,city,subscription_type
+25,50000,2,M,New York,Basic
+32,62000,5,F,Boston,Premium
+45,,10,M,Chicago,Basic
+28,48000,3,F,New York,Standard
+,75000,8,M,San Francisco,Premium
+39,68000,,F,Chicago,Standard
+22,42000,1,F,Boston,Basic
+51,82000,15,M,San Francisco,Premium
+36,61000,6,F,New York,Standard
+29,54000,4,M,Chicago,Basic

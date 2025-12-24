@@ -34,7 +34,7 @@ if df is None:
 
 # -------------------- Dataset Preview --------------------
 st.subheader("Dataset Preview")
-st.dataframe(df.head(15), use_container_width=True)
+st.dataframe(df.head(min(20, len(df))), use_container_width=True)
 st.write(f"Shape: {df.shape[0]} rows × {df.shape[1]} columns")
 
 st.subheader("Dataset Summary")

@@ -1,0 +1,21 @@
+student_id,age,gender,major,study_hours_per_week,attendance_rate,previous_gpa,passed_course
+1,20,Male,Computer Science,15,0.85,3.2,Yes
+2,22,Female,Mathematics,18,0.90,3.6,Yes
+3,21,Female,Physics,12,0.75,2.9,No
+4,23,Male,Engineering,20,0.95,3.8,Yes
+5,19,Female,Computer Science,,0.80,3.1,Yes
+6,24,Male,Mathematics,10,0.65,2.5,No
+7,22,,Physics,14,0.70,2.8,No
+8,21,Female,Engineering,16,0.88,3.4,Yes
+9,25,Male,Computer Science,8,0.60,,No
+10,20,Female,Mathematics,17,0.92,3.7,Yes
+11,23,Male,Engineering,19,0.90,3.5,Yes
+12,22,Female,Physics,11,,2.7,No
+13,21,Male,Computer Science,13,0.78,3.0,Yes
+14,24,Female,Mathematics,9,0.68,2.6,No
+15,20,Male,Engineering,15,0.85,3.3,Yes
+16,26,Female,Physics,7,0.55,2.2,No
+17,22,Male,Computer Science,18,0.93,3.9,Yes
+18,23,Female,Engineering,14,0.82,3.1,Yes
+19,21,Male,Mathematics,,0.70,2.8,No
+20,25,Female,Computer Science,16,0.88,3.4,Yes
